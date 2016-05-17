@@ -46,6 +46,10 @@ all mostly work the same on Linux (aside from homebrew, I'll get into that in a
 second) and only require slightly different configuration for some which I'll
 give a tutorial for here.
 
+A lot of Linux software and programs, including some of the distributions
+themselves, are also open source, allowing a lot of control and customisation
+within your OS.
+
 ### Package Managers and Homebrew
 <div id='id-packagemanagers' />
 
