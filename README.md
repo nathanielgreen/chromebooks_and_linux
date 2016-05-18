@@ -71,3 +71,30 @@ seperate GUI.
 
 ## What Chromebooks?
 <div id="id-whatchromebooks" />
+
+There a lots of resources of choosing a Chromebook depending on your specific
+needs, such as
+[whichchromebookshouldibuy](http://whichchromebookshouldibuy.com/). When looking
+for a chromebook to run linux, want to make sure it has an Intel Processor, and
+ideally 2-4GB of RAM. 
+
+Also another thing to note is that most chromebooks only come with either
+16/32/64GB of internal storage, and often come with a SD card slot. This is
+sufficient as long as you're not storing anything like games or lots of 
+photos/videos you should be fine storage-wise.
+
+My personal recommendations would be as follows:
+
+For the baseline all-rounder I'd recommend: [Toshiba Chromebook
+2](https://www.amazon.co.uk/Toshiba-PLM02E-00D003EN-CB30-B-104-Chromebook-Celeron/dp/B00RK7LFEG/ref=sr_1_3?ie=UTF8&qid=1463570959&sr=8-3&keywords=toshiba+chromebook+2):
+- Intel Celeron 2.16 GHz
+- 4GB RAM
+- 16GB SSD
+- 13.3 inch screen
+- Price: ~250.00
+This is a good chromebook if you're planning on using this until you get a job,
+and the using whatever laptop is provided by them as a daily driver.
+
+
+
+
