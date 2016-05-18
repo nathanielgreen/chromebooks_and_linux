@@ -93,12 +93,22 @@ My personal recommendations would be as follows:
     - Intel Celeron 2.16 GHz
     - 4GB RAM
     - 16GB SSD
-    - 13.3 inch screen
+    - 13.3 inch 16:9 1920x1080 display
     - Price: ~250.00
 
     This is a decent chromebook if you're planning on using this until you get a job,
     and the using whatever laptop is provided by them as a daily driver,
     alongside this chromebook.
+
+- If you're planning on using this laptop very long-term and possibly even at
+  your workplace, the [Chromebook Pixel 2015](https://pixel.google.com/chromebook-pixel/) 
+  by Google themselves is the best, but also most expensive option: 
+    - Intel i5/i7 2.6 Ghz Processor
+    - 8/16GB RAM
+    - 32/64GB SSD
+    - 12.85 inch 3:2 2560x1700 display
+    - Price: 800.00/1000.00
+    
 
 # Installing Linux on Your Chromebook Tutorial
 
