@@ -20,6 +20,9 @@ This guide assumes a few things:-
         - 1.2.1 [Package Managers and Homebrew](#id-packagemanagers)
         - 1.2.1 [ChromeOS and Distributions](#id-chromeosdistributions)
     - 1.3 [What Chromebooks](#id-whatchromebooks)
+
+2. Installing Linux on your Chromebook Tutorial
+    - 2.1 [Intro](#id-tutorialintro)
        
 
 # Chromebooks and Linux
@@ -94,8 +97,15 @@ My personal recommendations would be as follows:
     - Price: ~250.00
 
     This is a decent chromebook if you're planning on using this until you get a job,
-    and the using whatever laptop is provided by them as a daily driver.
+    and the using whatever laptop is provided by them as a daily driver,
+    alongside this chromebook.
 
+# Installing Linux on Your Chromebook Tutorial
 
+## Intro
+<div id="id-tutorialintro" />
 
-
+In this guide we'll go through the steps required to setup the Ubuntu
+distribution of Linux on your chromebook using [crouton](https://github.com/dnschneid/crouton), 
+as well as discuss how to go about installing different distributions and
+desktop environments/window managers.
