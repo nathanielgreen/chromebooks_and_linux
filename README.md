@@ -18,7 +18,7 @@ This guide assumes a few things:-
     - 1.1 [Why Chromebooks?](#id-whychromebooks)
     - 1.2 [Why Linux?](#id-whyLinux)
         - 1.2.1 [Package Managers and Homebrew](#id-packagemanagers)
-        - 1.2.1 [ChromeOS and Distributions](#id-chromeosdistributions)
+        - 1.2.2 [ChromeOS and Distributions](#id-chromeosdistributions)
     - 1.3 [What Chromebooks](#id-whatchromebooks)
 
 2. Installing Linux on your Chromebook Tutorial
@@ -28,7 +28,7 @@ This guide assumes a few things:-
 
 # Chromebooks and Linux
 
-## Why Chromebooks?
+## 1.1 Why Chromebooks?
 <div id='id-whychromebooks' />
 
 Chromebooks are (mostly) fairly cheap laptops that run and operating system called
@@ -41,7 +41,7 @@ This allows one to setup a Linux environment fairly easily, without having to
 worry about compatible hardware or certain drivers being incompatible or not
 working entirely. 
 
-## Why Linux?
+## 1.2 Why Linux?
 <div id='id-whyLinux' />
 
 If you've used OS X for web development, you'll likely be familiar with the
@@ -54,7 +54,7 @@ A lot of Linux software and programs, including some of the distributions
 themselves, are also open source, allowing a lot of control and customisation
 within your OS.
 
-### Package Managers and Homebrew
+### 1.2.1 Package Managers and Homebrew
 <div id='id-packagemanagers' />
 
 When using Mac OS X, you probably used a package manager called
@@ -72,7 +72,7 @@ between package managers such as them either being a CLI or having their own
 seperate GUI (homebrew for example being mostly CLI-based), as well as having
 different commands.
 
-### ChromeOS and Distributions
+### 1.2.2 ChromeOS and Distributions
 <div id='id-chromeosdistributions' />
 
 Following the tutorial below will result in your chromebook having [ChromeOS]()
