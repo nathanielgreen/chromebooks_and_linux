@@ -153,4 +153,64 @@ desktop environments/window managers.
 ## 1. Enabling Developer Mode
 <div id="id-tutorialdevelopermode">
 
-# **INCOMPLETE**
+**This step will wipe your local data,** so make sure you have any local files
+you want to keep backed up onto an external drive or into the cloud.
+
+To put your chromebook into developer mode:
+
+1. Press and hold the Esc and Refresh keys together, then (whilst still holding
+   these two keys) press the Power button. This will reboot your Chromebook into
+   recovery mode.
+2. Once you see the screen for Recovery Mode pop up, (it's a screen with a
+   yellow/orange exclamation point) press Ctrl+D. This will then bring up a
+   prompt for enabling developer mode. Press Enter to continue.
+3. Allow a few seconds after the last step, it should pop up with a different
+   screen for a few moment and then begin to reboot, and go through the process
+   of enabling developer mode. This may take a while (15ish minutes), and will also
+   wipe you local data.
+4. Once it's done, the screen with the exclamation point will reappear. Leave it
+   alone untill it boots into ChromeOS.
+
+## 2. Install Crouton
+
+In this step we'll be downloading the set of scripts that allows one to easily
+put Linux on ChromeOS called [crouton](https://github.com/dnschneid/crouton).
+
+1. Download by clicking the link at the top of [the crouton github
+   repo](https://github.com/dnschneid/crouton), or use the direct download link
+   [here](https://goo.gl/fd3zc). It should be saved into your Downloads folder.
+2. Press Ctrl+Alt+t to opemn up a terminal.
+3. Type `shell` in the terminal to enter the shell in which we'll run the
+   installation commands.
+
+At this stage, crouton provides some different commands depending on what sort
+of distribution and desktop environment you prefer. To learn more about the
+different distributions and desktop managers [here](#id-distrosanddes).
+
+To see a list of recognized releases and the distros they belong to run: `sh
+~/Downloads/crouton -r list`. 
+
+For the sake of this tutorial however we'll be installing the distribution
+Ubuntu version 14.04 with the XFCE desktop environment.
+
+## 3. Install Ubuntu
+
+1. In the same terminal in which you type `shell`, run the command `sudo sh -e
+   ~/Downloads/crouton -t xfce`.
+2. Let your computer download and install Ubuntu and XFCE. It may take a while
+   (up to 15 minutes, depending on your connection). When the download is
+   nearing completion, it will ask you for a username and password you want to use
+   for Ubuntu, these can be what you wish.
+3. After the installation is finish you can run the following command to enter
+   Ubuntu with XFCE: `sudo startxfce4`.
+
+To switch between ChromeOS and Ubuntu, press Ctrl+Alt+Shift+Back or
+Ctrl+Alt+Shift+Forward (with the back and forward keys being the ones on the
+function row next to Esc).
+
+# Further Linux
+
+## Distributions and Desktop Environments
+<div id="id-distrosanddes" />
+
+**INCOMPLETE**
