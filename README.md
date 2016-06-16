@@ -24,7 +24,13 @@ This guide assumes a few things:-
 2. Installing Linux on your Chromebook Tutorial
     - 2.1 [Intro](#id-tutorialintro)
     - 2.2 [Enabling Developer Mode](#id-tutorialdevelopermode)
+    - 2.3 [Install Crouton](#id-tutorialcrouton)
+    - 2.4 [Install Ubuntu](#id-tutorialubuntu)
+
+3. Further Linux
+    - 3.1 [Distributions and Desktop Environments](#id-distrosanddes)
        
+
 
 # Chromebooks and Linux
 
@@ -138,7 +144,8 @@ My personal recommendations would be as follows:
 
     I actually am using the i5/8GB RAM model daily so if you have any questions
     about the pixel specifically, shoot me a message and I'll give you a look.
-    
+   
+ 
 
 # Installing Linux on Your Chromebook Tutorial
 
@@ -172,6 +179,7 @@ To put your chromebook into developer mode:
    alone untill it boots into ChromeOS.
 
 ## 2. Install Crouton
+<div id="id=tutorialcrouton" />
 
 In this step we'll be downloading the set of scripts that allows one to easily
 put Linux on ChromeOS called [crouton](https://github.com/dnschneid/crouton).
@@ -194,6 +202,7 @@ For the sake of this tutorial however we'll be installing the distribution
 Ubuntu version 14.04 with the XFCE desktop environment.
 
 ## 3. Install Ubuntu
+<div id="id-tutorialubuntu" />
 
 1. In the same terminal in which you type `shell`, run the command `sudo sh -e
    ~/Downloads/crouton -t xfce`.
@@ -207,6 +216,8 @@ Ubuntu version 14.04 with the XFCE desktop environment.
 To switch between ChromeOS and Ubuntu, press Ctrl+Alt+Shift+Back or
 Ctrl+Alt+Shift+Forward (with the back and forward keys being the ones on the
 function row next to Esc).
+
+
 
 # Further Linux
 
