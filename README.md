@@ -195,7 +195,7 @@ At this stage, crouton provides some different commands depending on what sort
 of distribution and desktop environment you prefer. To learn more about the
 different distributions and desktop managers [here](#id-distrosanddes).
 
-To see a list of recognized releases and the distros they belong to run: `sh
+To see a list of recognized releases and the distros they belong to run: `sudo sh
 ~/Downloads/crouton -r list`. 
 
 For the sake of this tutorial however we'll be installing the distribution
@@ -213,9 +213,9 @@ Ubuntu version 14.04 with the XFCE desktop environment.
 3. After the installation is finish you can run the following command to enter
    Ubuntu with XFCE: `sudo startxfce4`.
 
-To switch between ChromeOS and Ubuntu, press Ctrl+Alt+Shift+Back or
-Ctrl+Alt+Shift+Forward (with the back and forward keys being the ones on the
-function row next to Esc).
+To switch between ChromeOS and Ubuntu while they're both running, 
+press Ctrl+Alt+Shift+Back or Ctrl+Alt+Shift+Forward 
+(with the back and forward keys being the ones on the function row next to Esc).
 
 
 
@@ -224,4 +224,4 @@ function row next to Esc).
 ## Distributions and Desktop Environments
 <div id="id-distrosanddes" />
 
-**INCOMPLETE**
+
