@@ -1,7 +1,7 @@
 # Chromebooks and Web Development
 
 This is a guide primarily built for Makers Academy students after their 12 weeks
-of using OS X for development and how they can make the change over to Linux on
+of using macOS for development and how they can make the change over to Linux on
 Chromebooks.
 
 This guide assumes a few things:-
@@ -50,7 +50,7 @@ working entirely.
 ## 1.2 Why Linux?
 <div id='id-whyLinux' />
 
-If you've used OS X for web development, you'll likely be familiar with the
+If you've used macOS for web development, you'll likely be familiar with the
 command line and programs for it such as git, Homebrew, rvm, Heroku etc. These
 all mostly work the same on Linux (aside from Homebrew, I'll get into that in a
 second) and only require slightly different configuration for some which I'll
@@ -63,7 +63,7 @@ within your OS.
 ### 1.2.1 Package Managers and Homebrew
 <div id='id-packagemanagers' />
 
-When using Mac OS X, you probably used a package manager called
+When using macOS, you probably used a package manager called
 [Homebrew](http://brew.sh/) to install things such as Node, and maybe even 
 [Homebrew Cask](https://caskroom.github.io/) to install programs like Google
 Chrome and Atom.
@@ -127,7 +127,7 @@ My personal recommendations would be as follows:
     - 4GB RAM
     - 16GB SSD
     - 13.3 inch 16:9 1920x1080 display
-    - Price: ~250.00
+    - Price: ~£250.00
 
     This is a decent chromebook if you're planning on using this until you get a job,
     and the using whatever laptop is provided by them as a daily driver,
@@ -140,11 +140,18 @@ My personal recommendations would be as follows:
     - 8/16GB RAM
     - 32/64GB SSD
     - 12.85 inch 3:2 2560x1700 display
-    - Price: 800.00/1000.00
+    - Price: £800/£1000
 
     I actually am using the i5/8GB RAM model daily so if you have any questions
     about the pixel specifically, shoot me a message and I'll give you a look.
-   
+
+- The [Dell Chromebook 13](http://www.dell.com/uk/business/p/chromebook-13-7310/pd) 
+  is another offering that has different configurations depending on your budget:
+    - £484: Intel Celeron 3205U Dual-core; 1.5GHz. 4GB RAM; 16GB SSD.
+    - £556: Intel Core i3-5005U Dual-core; 2.0 GHz. 4GB RAM; 16GB SSD. $Touchscreen Option w/ 32GB  SSD.
+    - £641: Intel Core i3-5005U Dual-core; 2.0 GHz. 8GB RAM; 32GB SSD. Touchscreen Option.
+    - £856: Intel Core i5-5300U Dual-core; 2.3 GHz. 8GB RAM; 32GB SSD. $ouchscreen Option.
+
  
 
 # Installing Linux on Your Chromebook Tutorial
