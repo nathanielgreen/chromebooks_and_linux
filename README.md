@@ -29,6 +29,7 @@ This guide assumes a few things:-
 
 3. Further Linux
     - 3.1 [Distributions and Desktop Environments](#id-distrosanddes)
+        - 3.1.1 [Desktop Environments](#id-des)
        
 
 
@@ -105,7 +106,7 @@ Chromebooks.
 If you'd like to know more about what different distributions you can install on
 your chromebook, refer to [this section]() of the guide.
 
-## What Chromebooks?
+## 1.3 What Chromebooks?
 <div id="id-whatchromebooks" />
 
 There a lots of resources of choosing a Chromebook depending on your specific
@@ -156,7 +157,7 @@ My personal recommendations would be as follows:
 
 # Installing Linux on Your Chromebook Tutorial
 
-## Intro
+## 2.1 Intro
 <div id="id-tutorialintro" />
 
 In this guide we'll go through the steps required to setup the Ubuntu
@@ -228,7 +229,13 @@ press Ctrl+Alt+Shift+Back or Ctrl+Alt+Shift+Forward
 
 # Further Linux
 
-## Distributions and Desktop Environments
+## 3.1 Distributions and Desktop Environments
 <div id="id-distrosanddes" />
 
+If you're interested in trying out different flavours of Linux and the tools it
+offers, crouton does provide the tools to install different distributions 
+and desktop environments, or they can be installed on what you have installed 
+from the tutorial, after the fact.
 
+### 3.1.1 Desktop Environments
+<div id="id-des" />
