@@ -6,7 +6,7 @@ Chromebooks.
 
 This guide assumes a few things:-
 
-- Little to no prior Linux/chromeOS experience and/or knowledge.
+- Little to no prior Linux/ChromeOS experience and/or knowledge.
 - You plan on using this guide for setting up a dev machine that can be used
   during and after Makers Academy, primarily for web development.
 - You will want to run Linux alongside ChromeOS, rather than replacing the OS
@@ -38,14 +38,14 @@ This guide assumes a few things:-
 ## 1.1 Why Chromebooks?
 <div id='id-whychromebooks' />
 
-Chromebooks are (mostly) fairly cheap laptops that run and operating system called
+Chromebooks are (mostly) fairly cheap laptops that run an operating system called
 ChromeOS. This is built on top of Linux and it is possible through a set of
 scripts called [crouton](https://github.com/dnschneid/crouton) to access the
 Linux shell and run another linux distribution (e.g. Ubuntu, Debian) alongside
 ChromeOS. 
 
 This allows one to setup a Linux environment fairly easily, without having to
-worry about compatible hardware or certain drivers being incompatible or not
+worry about compatible hardware or certain drivers being incompatible, or not
 working entirely. 
 
 ## 1.2 Why Linux?
@@ -54,11 +54,11 @@ working entirely.
 If you've used macOS for web development, you'll likely be familiar with the
 command line and programs for it such as git, Homebrew, rvm, Heroku etc. These
 all mostly work the same on Linux (aside from Homebrew, I'll get into that in a
-second) and only require slightly different configuration for some which I'll
-give a tutorial for here.
+second) and only require slightly different configuration, in which I'll go over
+in the tutorial.
 
 A lot of Linux software and programs, including some of the distributions
-themselves, are also open source, allowing a lot of control and customisation
+themselves, are also open source, allowing a lot of control and customization
 within your OS.
 
 ### 1.2.1 Package Managers and Homebrew
