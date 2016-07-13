@@ -239,3 +239,15 @@ from the tutorial, after the fact.
 
 ### 3.1.1 Desktop Environments
 <div id="id-des" />
+
+Desktop environments determine the sort of GUI you interact and what it looks
+like. For example, the default desktop environment Ubuntu comes with is called
+[Unity](https://en.wikipedia.org/wiki/Unity_(user_interface)), which is built on
+top of the [GNOME](https://en.wikipedia.org/wiki/GNOME) desktop environment.
+
+Different desktop environments will offer different features, such as the GNOME
+shell having a huge amount of [official and community made
+extensions](https://extensions.gnome.org/) that you can choose to download to
+suit your workflow. The type of DE you choose may also affect
+the way your system works such as some DE's not having HiDPI scaling yet, or
+having your workspaces be dyanmic as opposed to a fixed number.
