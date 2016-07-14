@@ -251,3 +251,7 @@ extensions](https://extensions.gnome.org/) that you can choose to download to
 suit your workflow. The type of DE you choose may also affect
 the way your system works such as some DE's not having HiDPI scaling yet, or
 having your workspaces be dyanmic as opposed to a fixed number.
+
+### 3.1.2 Window Managers
+
+### 3.1.3 Distributions
