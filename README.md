@@ -149,11 +149,13 @@ My personal recommendations would be as follows:
 - The [Dell Chromebook 13](http://www.dell.com/uk/business/p/chromebook-13-7310/pd) 
   is another offering that has different configurations depending on your budget:
     - £484: Intel Celeron 3205U Dual-core; 1.5GHz. 4GB RAM; 16GB SSD.
-    - £556: Intel Core i3-5005U Dual-core; 2.0 GHz. 4GB RAM; 16GB SSD. $Touchscreen Option w/ 32GB  SSD.
+    - £556: Intel Core i3-5005U Dual-core; 2.0 GHz. 4GB RAM; 16GB SSD. Touchscreen Option w/ 32GB SSD.
     - £641: Intel Core i3-5005U Dual-core; 2.0 GHz. 8GB RAM; 32GB SSD. Touchscreen Option.
-    - £856: Intel Core i5-5300U Dual-core; 2.3 GHz. 8GB RAM; 32GB SSD. $ouchscreen Option.
-
+    - £856: Intel Core i5-5300U Dual-core; 2.3 GHz. 8GB RAM; 32GB SSD. Touchscreen Option.
+    - 13.3 inch 16:9 1920x1080 matte display
+    - Micro SD card slot
  
+
 
 # Installing Linux on Your Chromebook Tutorial
 
