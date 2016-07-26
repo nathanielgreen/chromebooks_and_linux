@@ -134,6 +134,17 @@ My personal recommendations would be as follows:
     and the using whatever laptop is provided by them as a daily driver,
     alongside this chromebook.
 
+- Another good all-rounder is the [Acer Chromebook
+  R11](http://www.acer.com/ac/en/US/content/series/acerchromebookr11):
+
+    - Intel Celeron Quad-core 1.60Hz
+    - 2GB/4GB
+    - 32GB SSD
+    - 11.6 inch 1366x768 display
+    - Price: £250/350
+
+
+
 - If you're planning on using this laptop very long-term and possibly even at
   your workplace, the [Chromebook Pixel 2015](https://pixel.google.com/chromebook-pixel/) 
   by Google themselves is the best, but also most expensive option: 
