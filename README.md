@@ -30,7 +30,9 @@ This guide assumes a few things:-
 3. Further Linux
     - 3.1 [Distributions and Desktop Environments](#id-distrosanddes)
         - 3.1.1 [Desktop Environments](#id-des)
-       
+        - 3.1.2 [Window Managers](#id-wms)
+        - 3.1.3 [Distributions](#id-distros)
+               
 
 
 # Chromebooks and Linux
@@ -138,10 +140,10 @@ My personal recommendations would be as follows:
   R11](http://www.acer.com/ac/en/US/content/series/acerchromebookr11):
 
     - Intel Celeron Quad-core 1.60Hz
-    - 2GB/4GB
+    - 2GB/4GB RAM
     - 32GB SSD
     - 11.6 inch 1366x768 display
-    - Price: £250/350
+    - Price: £250/£350
 
 
 
@@ -159,12 +161,13 @@ My personal recommendations would be as follows:
 
 - The [Dell Chromebook 13](http://www.dell.com/uk/business/p/chromebook-13-7310/pd) 
   is another offering that has different configurations depending on your budget:
-    - £484: Intel Celeron 3205U Dual-core; 1.5GHz. 4GB RAM; 16GB SSD.
-    - £556: Intel Core i3-5005U Dual-core; 2.0 GHz. 4GB RAM; 16GB SSD. Touchscreen Option w/ 32GB SSD.
-    - £641: Intel Core i3-5005U Dual-core; 2.0 GHz. 8GB RAM; 32GB SSD. Touchscreen Option.
-    - £856: Intel Core i5-5300U Dual-core; 2.3 GHz. 8GB RAM; 32GB SSD. Touchscreen Option.
+    - Intel Celeron 3205U Dual-core 1.5GHz/Intel Celeron i3-5005U Dual-core
+      2.0/2.3GHz
+    - 4GB/8GB RAM
+    - 16GB/32GB SSD
+    - Touchscreen option.
     - 13.3 inch 16:9 1920x1080 matte display
-    - Micro SD card slot
+    - Price: ~£450/~£850
  
 
 
@@ -266,5 +269,7 @@ the way your system works such as some DE's not having HiDPI scaling yet, or
 having your workspaces be dyanmic as opposed to a fixed number.
 
 ### 3.1.2 Window Managers
+<div id="id-wms" />
 
 ### 3.1.3 Distributions
+<div id="id-distros" />
