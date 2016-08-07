@@ -253,7 +253,7 @@ offers, crouton does provide the tools to install different distributions
 and desktop environments, or they can be installed on what you have installed 
 from the tutorial, after the fact.
 
-### 3.1.1 Desktop Environments
+### 3.1.1 Desktop Environments (DEs)
 <div id="id-des" />
 
 Desktop environments determine the sort of GUI you interact and what it looks
@@ -268,8 +268,23 @@ suit your workflow. The type of DE you choose may also affect
 the way your system works such as some DE's not having HiDPI scaling yet, or
 having your workspaces be dyanmic as opposed to a fixed number.
 
-### 3.1.2 Window Managers
+### 3.1.2 Window Managers (WMs)
 <div id="id-wms" />
+A window manager is different to a desktop environment, in that its main
+function is just to manager your windows. Window managers are what add all the
+window decorations such as buttons to minimize and close. Desktop environments
+will usually come bundle with some form WM. 
+
+However, a lot of enthusiasts have chosen to instead run only a lightweight 
+window manager in place of a whole desktop environment. One of the more popular
+lightweight WMs is [i3 by Airblader](https://github.com/Airblader/i3), and is
+actually the one I use (the i3-gaps fork).
+
+i3 itself is a tiling window manager, and comes with Vi style key bindings for
+the moving and resizing of windows. Tiling window managers have become
+increasingly popular due to the speed and efficiency at which users can resize
+and tile their windows with keyboard shortcuts as opposed to dragging the
+sides/corners with the mouse in more traditional window managers.
 
 ### 3.1.3 Distributions
 <div id="id-distros" />
