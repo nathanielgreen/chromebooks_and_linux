@@ -106,7 +106,7 @@ The version we'll be installing in the tutorial also runs very stable on most
 Chromebooks.
 
 If you'd like to know more about what different distributions you can install on
-your chromebook, refer to [this section]() of the guide.
+your chromebook, refer to [this section](#id-distros) of the guide.
 
 ## 1.3 What Chromebooks?
 <div id="id-whatchromebooks" />
@@ -288,3 +288,21 @@ sides/corners with the mouse in more traditional window managers.
 
 ### 3.1.3 Distributions
 <div id="id-distros" />
+
+[Ubunutu](http://www.ubuntu.com/) is the distribution we used in this tutorial,
+and is one of the most popular linux distributions available, however there are
+a [LOT](https://en.wikipedia.org/wiki/List_of_Linux_distributions) of options
+for distributions.
+
+The difference between distributions can vary, with some of the difference only
+being their desktop environment. For example, Ubuntu being based on
+[Unity](https://en.wikipedia.org/wiki/Unity_(user_interface)), Xubuntu using
+[XFCE](https://www.xfce.org/) and so on.
+
+
+Other differences can be the actual goals of the company or community working
+on and building the distribution, such as [Fedora](https://getfedora.org/)
+aiming to be the first distribution to implement the latest and newest software
+and be on the bleeding edge, whereas [Debian](https://www.debian.org/) is more
+focused on providing an extremely stable distribution, which means its software
+may be more out of date than Fedora's.
