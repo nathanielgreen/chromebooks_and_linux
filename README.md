@@ -101,9 +101,11 @@ I chose this OS for the guide as it's one of the most popular distributions
 currently, making finding support, guides, and other tutorials fairly painless.
 It's default user interface/desktop environment,
 [Unity](https://en.wikipedia.org/wiki/Unity_(user_interface)) is also
-user-friendly, with  most settings/options having a GUI.
-The version we'll be installing in the tutorial also runs very stable on most
-Chromebooks.
+user-friendly, with  most settings/options having a GUI. **However**, in this
+tutorial we'll be installing Ubuntu with the [XFCE](https://www.xfce.org/) 
+desktop environment, as it use less system resources than Unity and will 
+run smoother on more low-end chromebooks. For more information on Desktop
+Environments and their differences, refer to [this section](#id-des) of the guide.
 
 If you'd like to know more about what different distributions you can install on
 your chromebook, refer to [this section](#id-distros) of the guide.
@@ -154,7 +156,7 @@ My personal recommendations would be as follows:
     - 8/16GB RAM
     - 32/64GB SSD
     - 12.85 inch 3:2 2560x1700 display
-    - Price: £800/£1000
+    - Price ~£800/~£1000
 
     I actually am using the i5/8GB RAM model daily so if you have any questions
     about the pixel specifically, shoot me a message and I'll give you a look.
@@ -167,7 +169,7 @@ My personal recommendations would be as follows:
     - 16GB/32GB SSD
     - Touchscreen option.
     - 13.3 inch 16:9 1920x1080 matte display
-    - Price: ~£450/~£850
+    - Price: ~£450 up to ~£850
  
 
 
@@ -299,10 +301,10 @@ being their desktop environment. For example, Ubuntu being based on
 [Unity](https://en.wikipedia.org/wiki/Unity_(user_interface)), Xubuntu using
 [XFCE](https://www.xfce.org/) and so on.
 
-
 Other differences can be the actual goals of the company or community working
 on and building the distribution, such as [Fedora](https://getfedora.org/)
 aiming to be the first distribution to implement the latest and newest software
 and be on the bleeding edge, whereas [Debian](https://www.debian.org/) is more
 focused on providing an extremely stable distribution, which means its software
 may be more out of date than Fedora's.
+
