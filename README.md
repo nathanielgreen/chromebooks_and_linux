@@ -126,19 +126,8 @@ photos/videos you should be fine storage-wise.
 
 My personal recommendations would be as follows:
 
-- For the baseline all-rounder I'd recommend: [Toshiba Chromebook
-2](https://www.amazon.co.uk/Toshiba-PLM02E-00D003EN-CB30-B-104-Chromebook-Celeron/dp/B00RK7LFEG/ref=sr_1_3?ie=UTF8&qid=1463570959&sr=8-3&keywords=toshiba+chromebook+2):
-    - Intel Celeron 2.16 GHz
-    - 4GB RAM
-    - 16GB SSD
-    - 13.3 inch 16:9 1920x1080 display
-    - Price: ~£250.00
 
-    This is a decent chromebook if you're planning on using this until you get a job,
-    and the using whatever laptop is provided by them as a daily driver,
-    alongside this chromebook.
-
-- Another good all-rounder is the [Acer Chromebook
+- A good baseline all-rounder is the [Acer Chromebook
   R11](http://www.acer.com/ac/en/US/content/series/acerchromebookr11):
 
     - Intel Celeron Quad-core 1.60Hz
@@ -147,7 +136,9 @@ My personal recommendations would be as follows:
     - 11.6 inch 1366x768 display
     - Price: £250/£350
 
-
+    This is a decent chromebook if you're planning on using this until you get a job,
+    and the using whatever laptop is provided by them as a daily driver,
+    alongside this chromebook.
 
 - If you're planning on using this laptop very long-term and possibly even at
   your workplace, the [Chromebook Pixel 2015](https://pixel.google.com/chromebook-pixel/) 
