@@ -134,23 +134,12 @@ My personal recommendations would be as follows:
     - 2GB/4GB RAM
     - 32GB SSD
     - 11.6 inch 1366x768 display
-    - Price: £250/£350
+    - ~8 hour battery life
+    - Price: £199/£229
 
     This is a decent chromebook if you're planning on using this until you get a job,
     and the using whatever laptop is provided by them as a daily driver,
     alongside this chromebook.
-
-- If you're planning on using this laptop very long-term and possibly even at
-  your workplace, the [Chromebook Pixel 2015](https://pixel.google.com/chromebook-pixel/) 
-  by Google themselves is the best, but also most expensive option: 
-    - Intel i5/i7 2.6 Ghz Processor
-    - 8/16GB RAM
-    - 32/64GB SSD
-    - 12.85 inch 3:2 2560x1700 display
-    - Price ~£800/~£1000
-
-    I actually am using the i5/8GB RAM model daily so if you have any questions
-    about the pixel specifically, shoot me a message and I'll give you a look.
 
 - The [Dell Chromebook 13](http://www.dell.com/uk/business/p/chromebook-13-7310/pd) 
   is another offering that has different configurations depending on your budget:
@@ -160,8 +149,21 @@ My personal recommendations would be as follows:
     - 16GB/32GB SSD
     - Touchscreen option.
     - 13.3 inch 16:9 1920x1080 matte display
+    - ~12 hour battery life
     - Price: ~£450 up to ~£850
  
+- If you're planning on using this laptop very long-term and possibly even at
+  your workplace, the [Chromebook Pixel 2015](https://pixel.google.com/chromebook-pixel/) 
+  by Google themselves is the best, but also most expensive option: 
+    - Intel i5/i7 2.6 Ghz Processor
+    - 8/16GB RAM
+    - 32/64GB SSD
+    - 12.85 inch 3:2 2560x1700 display
+    - ~12 hour battery life
+    - Price ~£800/~£1000
+
+    I actually am using the i5/8GB RAM model daily so if you have any questions
+    about the pixel specifically, shoot me a message and I'll give you a look.
 
 
 # Installing Linux on Your Chromebook Tutorial
