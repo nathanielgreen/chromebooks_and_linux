@@ -2,7 +2,7 @@
 
 This is a guide primarily built for Makers Academy students after their 12 weeks
 of using macOS for development and how they can make the change over to Linux on
-Chromebooks.
+Chromebooks for their future web development needs.
 
 This guide assumes a few things:-
 
@@ -130,12 +130,13 @@ My personal recommendations would be as follows:
 - A good baseline all-rounder is the [Acer Chromebook
   R11](http://www.acer.com/ac/en/US/content/series/acerchromebookr11):
 
-    - Intel Celeron Quad-core 1.60Hz
+    - Intel Celeron Quad-core 1.6Hz
     - 2GB/4GB RAM
     - 32GB SSD
-    - 11.6 inch 1366x768 display
+    - 11.6 inch 16:9 1366x768 touchscreen display
+    - Convertible to tablet mode
     - ~8 hour battery life
-    - Price: £199/£229
+    - Price: ~£199/~£229
 
     This is a decent chromebook if you're planning on using this until you get a job,
     and the using whatever laptop is provided by them as a daily driver,
@@ -147,8 +148,8 @@ My personal recommendations would be as follows:
       2.0/2.3GHz
     - 4GB/8GB RAM
     - 16GB/32GB SSD
-    - Touchscreen option.
     - 13.3 inch 16:9 1920x1080 matte display
+    - Touchscreen option.
     - ~12 hour battery life
     - Price: ~£450 up to ~£850
  
@@ -158,7 +159,7 @@ My personal recommendations would be as follows:
     - Intel i5/i7 2.6 Ghz Processor
     - 8/16GB RAM
     - 32/64GB SSD
-    - 12.85 inch 3:2 2560x1700 display
+    - 12.85 inch 3:2 2560x1700 touchscreen display
     - ~12 hour battery life
     - Price ~£800/~£1000
 
