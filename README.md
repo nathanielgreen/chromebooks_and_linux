@@ -41,14 +41,15 @@ This guide assumes a few things:-
 <div id='id-whychromebooks' />
 
 Chromebooks are (mostly) fairly cheap laptops that run an operating system called
-ChromeOS. This is built on top of Linux and it is possible through a set of
-scripts called [crouton](https://github.com/dnschneid/crouton) to access the
-Linux shell and run another linux distribution (e.g. Ubuntu, Debian) alongside
-ChromeOS. 
+[ChromeOS](https://en.wikipedia.org/wiki/Chrome_OS). This is built on top of 
+Linux and it is possible through a set of scripts called 
+[crouton](https://github.com/dnschneid/crouton) to access the Linux shell and 
+run another linux distribution (e.g. Ubuntu, Debian) alongside ChromeOS. 
 
 This allows one to setup a Linux environment fairly easily, without having to
 worry about compatible hardware or certain drivers being incompatible, or not
-working entirely. 
+working entirely, as well as being able to reinstall Linux or distro hop fairly
+easily if your first install becomes corrupted or no longer wanted, 
 
 ## 1.2 Why Linux?
 <div id='id-whyLinux' />
