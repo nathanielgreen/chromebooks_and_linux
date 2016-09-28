@@ -7,27 +7,27 @@ Chromebooks for their future web development needs.
 This guide assumes a few things:-
 
 - Little to no prior Linux/ChromeOS experience and/or knowledge.
-- You plan on using this guide for setting up a dev machine that can be used
-  during and after Makers Academy, primarily for web development.
+- You plan on using this guide for setting up a dev machine/environment that 
+  can be used during and after Makers Academy, primarily for web development.
 - You will want to run Linux alongside ChromeOS, rather than replacing the OS
   entirely.
 
 # Contents
 
-1. Chromebooks and Linux
+- 1. Chromebooks and Linux
     - 1.1 [Why Chromebooks?](#id-whychromebooks)
     - 1.2 [Why Linux?](#id-whyLinux)
         - 1.2.1 [Package Managers and Homebrew](#id-packagemanagers)
         - 1.2.2 [ChromeOS and Distributions](#id-chromeosdistributions)
     - 1.3 [What Chromebooks](#id-whatchromebooks)
 
-2. Installing Linux on your Chromebook Tutorial
+- 2. Installing Linux on your Chromebook Tutorial
     - 2.1 [Intro](#id-tutorialintro)
     - 2.2 [Enabling Developer Mode](#id-tutorialdevelopermode)
     - 2.3 [Install Crouton](#id-tutorialcrouton)
     - 2.4 [Install Ubuntu](#id-tutorialubuntu)
 
-3. Further Linux
+- 3. Further Linux
     - 3.1 [Distributions and Desktop Environments](#id-distrosanddes)
         - 3.1.1 [Desktop Environments](#id-des)
         - 3.1.2 [Window Managers](#id-wms)
@@ -42,7 +42,7 @@ This guide assumes a few things:-
 
 Chromebooks are (mostly) fairly cheap laptops that run an operating system called
 [ChromeOS](https://en.wikipedia.org/wiki/Chrome_OS). This is built on top of 
-Linux and it is possible through a set of scripts called 
+Linux, and it is possible through a set of scripts called 
 [crouton](https://github.com/dnschneid/crouton) to access the Linux shell and 
 run another linux distribution (e.g. Ubuntu, Debian) alongside ChromeOS. 
 
@@ -72,25 +72,26 @@ When using macOS, you probably used a package manager called
 [Homebrew Cask](https://caskroom.github.io/) to install programs like Google
 Chrome and Atom.
 
-Depending on what Linux distribtuion you go for (in this tutorial we'll mostly on
+Depending on what Linux distribution you go for (in this tutorial we'll mostly on
 cover Ubuntu), will decide on the type of 
 [package manager](https://en.wikipedia.org/wiki/Package_manager) you have. In Ubuntu's
 case you'll have the package manager 'apt-get'. 
 
 There are certain differences
 between package managers such as them either being a CLI or having their own
-seperate GUI (homebrew for example being mostly CLI-based), as well as having
+separate GUI (homebrew for example being mostly CLI-based), as well as having
 different commands.
 
 ### 1.2.2 ChromeOS and Distributions
 <div id='id-chromeosdistributions' />
 
-Following the tutorial below will result in your chromebook having [ChromeOS]()
-and Ubuntu running alongside eachother (that is, once you run Ubuntu from the
+Following the tutorial below will result in your chromebook having
+[ChromeOS](https://en.wikipedia.org/wiki/Chrome_OS) and Ubuntu 
+running alongside each other (that is, once you run Ubuntu from the
 ChromeOS shell). 
 
 Ubuntu is just one of the 
-[many Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
+[many Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions),
 and depending on what sort of features you look for in an operating
 system will likely decide what distribution you choose.
 
@@ -117,8 +118,8 @@ your chromebook, refer to [this section](#id-distros) of the guide.
 There a lots of resources of choosing a Chromebook depending on your specific
 needs, such as
 [whichchromebookshouldibuy](http://whichchromebookshouldibuy.com/). When looking
-for a chromebook to run Linux, want to make sure it has an Intel Processor, and
-ideally 2-4GB of RAM. 
+for a chromebook to run Linux, you want to make sure it has an Intel Processor, 
+at least 32GB of SSD storage, and ideally 4GB of RAM.
 
 Also another thing to note is that most chromebooks only come with either
 16/32/64GB of internal storage, and often come with a SD card slot. This is
@@ -164,8 +165,8 @@ My personal recommendations would be as follows:
     - ~12 hour battery life
     - Price ~£800/~£1000
 
-    I actually am using the i5/8GB RAM model daily so if you have any questions
-    about the pixel specifically, shoot me a message and I'll give you a look.
+    I actually am using the i5/8GB RAM Pixel model daily so if you have any questions
+    about the Pixel specifically, shoot me a message and I'll give you a look.
 
 
 # Installing Linux on Your Chromebook Tutorial
@@ -197,7 +198,7 @@ To put your chromebook into developer mode:
    of enabling developer mode. This may take a while (15ish minutes), and will also
    wipe you local data.
 4. Once it's done, the screen with the exclamation point will reappear. Leave it
-   alone untill it boots into ChromeOS.
+   alone until it boots into ChromeOS.
 
 ## 2. Install Crouton
 <div id="id=tutorialcrouton" />
@@ -208,7 +209,7 @@ put Linux on ChromeOS called [crouton](https://github.com/dnschneid/crouton).
 1. Download by clicking the link at the top of [the crouton github
    repo](https://github.com/dnschneid/crouton), or use the direct download link
    [here](https://goo.gl/fd3zc). It should be saved into your Downloads folder.
-2. Press Ctrl+Alt+t to opemn up a terminal.
+2. Press Ctrl+Alt+t to open up a terminal.
 3. Type `shell` in the terminal to enter the shell in which we'll run the
    installation commands.
 
@@ -263,7 +264,7 @@ shell having a huge amount of [official and community made
 extensions](https://extensions.gnome.org/) that you can choose to download to
 suit your workflow. The type of DE you choose may also affect
 the way your system works such as some DE's not having HiDPI scaling yet, or
-having your workspaces be dyanmic as opposed to a fixed number.
+having your workspaces be dynamic as opposed to a fixed number.
 
 ### 3.1.2 Window Managers (WMs)
 <div id="id-wms" />
