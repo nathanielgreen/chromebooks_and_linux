@@ -165,8 +165,8 @@ My personal recommendations would be as follows:
     - ~12 hour battery life
     - Price ~£800/~£1000
 
-    I actually am using the i5/8GB RAM Pixel model daily so if you have any questions
-    about the Pixel specifically, shoot me a message and I'll give you a look.
+    I have previously used the i5/8GB 2015 Pixel model as a daily driver so if
+    you have any questions about the Pixel specifically, shoot me and message.
 
 
 # Installing Linux on Your Chromebook Tutorial
